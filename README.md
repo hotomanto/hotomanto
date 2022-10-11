@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @hotomanto
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in iot
+- 🌱 I’m currently learning git docker 
+- 💞️ 
+- 📫 
 
 <!---
-ceci est un test mon tous premier test serieux 
-parceque j'adoore le concept de github
+ceci est un test
+
 --->
